@@ -312,6 +312,15 @@
           animation-delay: 1s;
 }
 
+.jobs {
+    color: #62f9d6;
+  font-size: 1.2em;
+  letter-spacing: 0.08em;
+  font-weight: 600;
+  font-family: 'SF Mono', 'Fira Code', 'Fira Mono', 'Roboto Mono', monospace;
+  margin-top: 30px;
+}
+
 .profolio__works h1 {
   color: #62f9d6;
   font-size: 1.2em;
